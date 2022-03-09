@@ -2,4 +2,4 @@
 This is a home design in java applet 
 
 
-<img src="applet-home.png" width="450" height="300">
+<img src="applet-home.png" width="550" height="400">
